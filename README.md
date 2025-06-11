@@ -15,3 +15,5 @@
 직접풀어보기 11-2  
 영화 포스터를 클릭하면 영화 제목이 토스트 메시지에 나타나도록 [실습11-2]를 수정하라. 토스트 메시지가 아이콘과 함께 나타나게 한다.
 `HINT` 고급 토스트는 [실습7-3]을 참조한다.  
+
+[Reference](https://pitch-eel-0ef.notion.site/Chapter-11-20f0711f396d80648cfcccdb02037e73?source=copy_link)
